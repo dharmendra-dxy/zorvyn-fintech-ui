@@ -42,7 +42,7 @@ export function Sidebar() {
         <div className="flex-shrink-0 w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
           <TrendingUp className="h-4 w-4 text-primary-foreground" />
         </div>
-        {!collapsed && <span className="font-bold text-lg tracking-tight">Zorvyn</span>}
+        {!collapsed && <span className="font-bold text-lg tracking-tight">Zorvyn Fintech UI</span>}
       </div>
 
       {/* Nav */}
